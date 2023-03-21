@@ -23,6 +23,7 @@ body{
 .main{
   width: min(100%,500px);
   background-color: var(--bg-cl);
+  margin-top: 2rem;
 }
 
 .nav{
